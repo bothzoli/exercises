@@ -1,0 +1,14 @@
+body {
+	background-image: url(bg.jpg);
+	background-size: 100%;
+}
+
+.jumbotron {
+	background-image: url(heading.jpg);
+	background-size: 100%;
+	opacity: 0.8;
+}
+
+.display-5 {
+	color: #f5f5f5;
+}
