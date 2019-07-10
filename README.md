@@ -2,11 +2,11 @@
 
 ## 1. Title casing
 
-The solution can be found in folder [Ex1](./Ex1/index.html).
+The solution `index.html` can be found in folder [Ex1](./Ex1).
 
 ## 2. API Calls
 
-The solution can be found in folder [Ex2](./Ex2/index.html).
+The solution `index.html` can be found in folder [Ex2](./Ex2).
 
 Please download [Ex2](./Ex2) folder and put your [Dark Sky API](https://darksky.net/dev) key into `API_KEY` in [main.js (line 2)](./Ex2/main.js).
 
@@ -36,7 +36,7 @@ The required XPath is:
 //channel/lastBuildDate
 ```
 
-The required XSLT transformation can be found in folder [Ex4](./Ex4/index.xslt).
+The required XSLT transformation `index.xslt` can be found in folder [Ex4](./Ex4).
 
 ## 5. Express REST API
 
